@@ -1,1 +1,2 @@
-##Projet d'un combat entre 2 classes diférentes coder en php en cours avec ItAkademy
+#Projet avec ItAkademy 
+Deux personnages qui se tapent via du PHP en POO.
